@@ -5,8 +5,8 @@
   description: |
     Wifi Jammer is used to jam the wifi network, including the surrounding internal IP devices connected to the same device.
 
-  grade: stable
-  confinement: strict
+  grade: 'stable'
+  confinement: 'strict'
 
   parts:
     my-part:
